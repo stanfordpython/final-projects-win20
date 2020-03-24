@@ -1,0 +1,127 @@
+[
+    {
+        "age": 72,
+        "dna": "CTGAACATGTGTGTCGGTTTGGCAGAAAGGCTCGCAGCATGCAAAGATCCTCAGTTCCCTGGGGCGGCTT",
+        "name": "Rina Pollins"
+    },
+    {
+        "age": 87,
+        "dna": "TATGATGTGCCCACAAGCTCAATGGCCATGTTCAGAACTAGCAGCGCCGCTTAGGAAACCTCTGCCGCTT",
+        "name": "Diannne Nuss"
+    },
+    {
+        "age": 32,
+        "dna": "CCCATAATGACTGCAGGTACAGAAGGTACGTGCGGCATTAGCAGAGATCCACAGTTCCTGTGCCCGACTT",
+        "name": "Ki Konik"
+    },
+    {
+        "age": 83,
+        "dna": "AGCCCCACGCTCTCCGAGGTGGTGGGAAGTGTAACAACTGGAACTGCTCATATGTTTCTGTCGTCGGCTT",
+        "name": "Bertine Bensman"
+    },
+    {
+        "age": 94,
+        "dna": "CCCCAACGGCTCTCCAGCCTAGTGTAGCTACTTCCTACTAGCTGAACCTTTAAGTACCCCTGGTTGACAC",
+        "name": "Luciana Riggle"
+    },
+    {
+        "age": 63,
+        "dna": "TTTCTGATCTTTCGCGGGTAAGTGGGGATGGTCGCGACTTGCTGAGAGCCTAATTACTCAGGTTCTACCT",
+        "name": "Diann Fulks"
+    },
+    {
+        "age": 2,
+        "dna": "GTCCGCATTCTTGTTGTGGGATAGGAGTTGCTAGCAACTGACACACGTGCTAATTCCCCCGGGGGTTATT",
+        "name": "Carmon Doolen"
+    },
+    {
+        "age": 69,
+        "dna": "CCCCACATTCCCGTCCTGATTATGATAATGGTACGACCTAATTGTACAACTAAGGGCCCCAGCCCTAATT",
+        "name": "Linet Whaler"
+    },
+    {
+        "age": 67,
+        "dna": "GCCATTCTGATTGTCGGTCGGGTGGGGGTTGTTGCACAACCCAGTCCACCTCAGTTCACCTCTCACATAT",
+        "name": "Winnifred Ninnemann"
+    },
+    {
+        "age": 62,
+        "dna": "CATTAACTTCTGGTCGGGCTAGTGGCGATGGTCCCGAGCAGCTAAGCTGATAAAAGCCCACCGACGCTTA",
+        "name": "Wynnie Sulek"
+    },
+    {
+        "age": 33,
+        "dna": "TTGCATACGCTTGTGGTACCCATCGGAATTGTTCCAACAAGCATAACTCCACATTTTAACTAGGCGTCTA",
+        "name": "Lissa Landrie"
+    },
+    {
+        "age": 42,
+        "dna": "CGCCTTCTACTTGTCGGGTGACAGGGAAAAGGGCTAAGTACCAGAGCACCGTAGCGCGCCCGTACGTCCA",
+        "name": "Sharyl Mellor"
+    },
+    {
+        "age": 1,
+        "dna": "TGCCACATACTGCTTGCGGTAGGGGAGATTATCAGTCCTTGCGGCGTTCCTAGGTTCCCCAGAGCGATTA",
+        "name": "Isabelle Wojeik"
+    },
+    {
+        "age": 95,
+        "dna": "TTCCCCATGCTGGTTCGGTCAGTGAGTACCGTTGCCACTCTCCGGGCCGTAAAGTTACACTTCGGCTCTG",
+        "name": "Petunia Antinore"
+    },
+    {
+        "age": 2,
+        "dna": "TAACCACTGCTTTTCAAGATAGACGGGATTGCCGTGACTCGCCGACCACCTAGCTATGGCGGCGCGGCTT",
+        "name": "Reina Gildow"
+    },
+    {
+        "age": 45,
+        "dna": "ATGCACGTTTTGATGGGACAAGGCGTGATGGTTGTGACATGCTGCGATCCTGACATCCGCTGAGCGGGTT",
+        "name": "Sher Mrotz"
+    },
+    {
+        "age": 3,
+        "dna": "TCGGAAATACCAGTTGAGCAAGTGGGCCGCGTAGCATCTACTGGAGCTCTTATATTCCCCTGGGAGGCTG",
+        "name": "Jo-Anne Lownsbery"
+    },
+    {
+        "age": 86,
+        "dna": "TTCCAAAGCCCTCTCGGGTTGGGGGAGTTGGTGGCCAGCATCAGCGAAAGTTCGGTCCCCTCTGCGATTT",
+        "name": "Clementina Sones"
+    },
+    {
+        "age": 7,
+        "dna": "TTTAACAACATTATTGGTATAGCGTCAATGGTCCCAATTAGCTGAACTCCGAAGTTCCTATTGGGGACTC",
+        "name": "Alethea Griebel"
+    },
+    {
+        "age": 73,
+        "dna": "TGCTTCATTCTTGCCGATTTATCGGGAATGGTGGAAAGTAGCACAGCAGATACGTCATACTGAGTGACTT",
+        "name": "Jinny Bok"
+    },
+    {
+        "age": 64,
+        "dna": "GCCTACAGTTGGTAAGGCTGGAGCGCAGTTCAATGATATAGGTGAGTAGCGGCGTAGCCGGCAACTACGTGTCACGGTCA",
+        "name": "Guido van Rossum"
+    },
+    {
+        "age": 59,
+        "dna": "TGGGCCTACCGTAACAGGGCAAGGCTGTTCGCAGGACCTGGCACTGGGGCACTCCATTGGCTAACCCAGAATAGAGTTGA",
+        "name": "Barack Obama"
+    },
+    {
+        "age": 55,
+        "dna": "GCGCACCGACCTCGCCATCCTATAATGAGGTCCCTGTCTAATAGGAGCTGGCGTTTCTATATAGTCTAATGACACCCCAA",
+        "name": "Will Smith"
+    },
+    {
+        "age": 21,
+        "dna": "ATGGTGCTCTCTGGGGAAGACAAAAGCAACATCAAGGCTGCCTGGGGGAAGATTGGTGGCCATGGTGCTGAATATGGAGCTGAAGCCCTGGAAAGGATGTTTGCTAGCTTCCCCACCACCAAGACCTACTTTCCTCACTTTGATGTAAGCCACGGCTCTCATTCTAAATGGTGCTGAGCAAAGTT",
+        "name": "Parth Sarin"
+    },
+    {
+        "age": 22,
+        "dna": "ACATTCTCCTCGGGGGTGCGGGGATGGCGTTCTCTTATCAGAGCGTCGAGACGCTTCTTTCACGATAAAT",
+        "name": "Michael Cooper"
+    }
+]

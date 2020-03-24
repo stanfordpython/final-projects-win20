@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block main %}
+{# Description #}
+<p>{{ desc }}</p>
+
+{# Message #}
+{% if msg is not none %}
+<style>
+    pre {
+        font-family: "Courier New"
+    }
+</style>
+<div class="alert alert-info" role="alert"> <p>
+   <pre>{{ msg }}</pre>
+</p></div>
+{% endif %}
+
+{# Form #}
+<form method="POST" enctype="multipart/form-data" action="/">
+    {% for field in form %}
+        {{ field.render()|safe }}
+    {% endfor %}
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $('.custom-file-input').on('change', function () {
+        //get the file name
+        var fileName = $(this).val();
+        //replace the "Choose a file" label
+        $(this).prev('.custom-file-label').html(fileName);
+    })
+</script>
+{% endblock %}
