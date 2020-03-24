@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.cs41.wallscraper</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/dannydu/.virtualenvs/cs41-env/bin/python</string>
+		<string>/Users/dannydu/Documents/2. Classes/5. Winter 2020/0. CS 41/4. Final Project/lab-5/wallscraper.py</string>
+	</array>
+	<key>StandardOutPath</key>
+	<string>/Users/dannydu/Documents/2. Classes/5. Winter 2020/0. CS 41/4. Final Project/lab-5/output</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/dannydu/Documents/2. Classes/5. Winter 2020/0. CS 41/4. Final Project/lab-5</string>
+	<key>StartInterval</key>
+	<integer>15</integer>
+</dict>
+</plist>
