@@ -1,0 +1,133 @@
+(cs41-env) DN0a1ea99b:project rose_old$ python3 01_scrape.py
+Scraping Microsoft...
+Done scraping.
+Extracting US Engineering jobs...
+Tabulating number of open job titles by city for Microsoft...
+Here are the number of open job titles by city:
+                                                    num_job_openings
+Redmond, Washington, United States                              1569
+Bellevue, Washington, United States                              206
+Atlanta, Georgia, United States                                   90
+Reston, Virginia, United States                                   83
+Charlotte, North Carolina, United States                          69
+Sunnyvale, California, United States                              62
+Las Colinas, Texas, United States                                 37
+Issaquah, Washington, United States                               26
+Fargo, North Dakota, United States                                23
+Raleigh, North Carolina, United States                            22
+Other, Other, United States                                       21
+New York, New York, United States                                 17
+Elkridge, Maryland, United States                                 14
+San Francisco, California, United States                          14
+Mountain View, California, United States                          12
+Cambridge, Massachusetts, United States                           10
+Austin, Texas, United States                                       8
+Santa Monica, California, United States                            8
+Berkeley, California, United States                                6
+Pittsburgh, Pennsylvania, United States                            6
+Boulder, Colorado, United States                                   4
+Fort Collins, Colorado, United States                              3
+Phoenix, Arizona, United States                                    2
+Houston, Texas, United States                                      2
+San Antonio, Texas, United States                                  2
+Detroit, Michigan, United States                                   2
+Washington D.C., District of Columbia, United S...                 1
+Chicago, Illinois, United States                                   1
+Cherry Hill, New Jersey, United States                             1
+Boston, Massachusetts, United States                               1
+Boise, Idaho, United States                                        1
+Scraping JPMorgan...
+Done scraping.
+Extracting JP Morgan US Engineering jobs...
+Tabulating number of open job titles by city for JP Morgan...
+Here are the number of open job titles by city:
+                              num_job_openings
+location_city location_state                  
+Brooklyn      NY                             4
+Chicago       IL                            66
+Columbus      OH                           104
+Glasgow       SCT                            1
+Houston       TX                            63
+Hyderabad     AP                             1
+Jersey City   NJ                            46
+Lewisville    TX                            38
+Mountain View CA                             3
+New York      NY                            41
+Newark        DE                            24
+Orem          UT                             1
+Palo Alto     CA                             3
+Plano         TX                            50
+Redwood City  CA                             2
+San Francisco CA                             3
+San Mateo     CA                            13
+Seattle       WA                            15
+Tampa         FL                            14
+Washington    DC                             1
+Westerville   OH                            19
+Wilmington    DE                            46
+Scraping Google...
+Done scraping.
+Extracting Google US Engineering jobs...
+Tabulating number of open job titles by city for Google...
+Here are the number of open job titles by city:
+                              num_job_openings
+Sunnyvale, CA, USA                         128
+Mountain View, CA, USA                     109
+New York, NY, USA                           49
+San Francisco, CA, USA                      41
+Seattle, WA, USA                            33
+Kirkland, WA, USA                           31
+Austin, TX, USA                             28
+San Bruno, CA, USA                          26
+Pittsburgh, PA, USA                         16
+Los Angeles, CA, USA                        16
+Chicago, IL, USA                            15
+Boulder, CO, USA                            12
+Cambridge, MA, USA                          11
+Palo Alto, CA, USA                           9
+Irvine, CA, USA                              8
+Atlanta, GA, USA                             6
+Madison, WI, USA                             6
+Boston, MA, USA                              5
+Reston, VA, USA                              4
+Durham, NC, USA                              3
+Portland, OR, USA                            3
+Redwood City, CA, USA                        3
+Addison, TX, USA                             3
+Bellevue, WA, USA                            3
+Santa Barbara, CA, USA                       3
+Rochester, MN, USA                           2
+San Diego, CA, USA                           2
+The Dalles, OR 97058, USA                    2
+Council Bluffs, IA, USA                      2
+Henderson, NV, USA                           2
+Lenoir, NC, USA                              1
+Chapel Hill, NC, USA                         1
+Houston, TX, USA                             1
+Bridgeport, AL 35740, USA                    1
+St. Louis, MO, USA                           1
+Lithia Springs, GA, USA                      1
+Charlotte, NC, USA                           1
+Minneapolis, MN, USA                         1
+Clarksville, TN, USA                         1
+Dallas, TX, USA                              1
+Moncks Corner, SC 29461, USA                 1
+Ann Arbor, MI, USA                           1
+Scraping Home Depot...
+Done scraping.
+Extracting Home Depot US Engineering jobs...
+Tabulating number of open job titles by city for Home Depot...
+Here are the number of open job titles by city:
+                      location
+Austin, TX                  45
+Atlanta, GA                 43
+Houston, TX                  3
+Vancouver, WA                2
+Dallas, TX                   1
+Indianapolis, IN             1
+Phoenix, AZ                  1
+Rancho Cucamonga, CA         1
+Jacksonville, FL             1
+Mira Loma, CA                1
+San Mateo, CA                1
+(cs41-env) DN0a1ea99b:project rose_old$ 

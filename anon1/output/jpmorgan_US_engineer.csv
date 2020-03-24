@@ -1,0 +1,559 @@
+,job_title,jobid,location_city,location_state,location_country,date_posted
+0,Full Stack Java Software Engineer,200012294,Columbus,OH,US,2-11-2020
+1,Java Software Engineer,190112260,New York,NY,US,1-10-2020
+2,Platform Services - Software Engineer - Observability Engineering,190102457,Plano,TX,US,2-10-2020
+3,Software Engineer - Automation/Performance,200011736,Wilmington,DE,US,2-10-2020
+4,Full Stack Java/J2EE Software Engineer,190111555,Lewisville,TX,US,2-18-2020
+5,Infrastructure Engineer,190067749,Houston,TX,US,8-12-2019
+6,Site Reliability Engineer - Digital Technology,190109985,Columbus,OH,US,12-17-2019
+7,Lead Software Engineer,200009873,Wilmington,DE,US,2-17-2020
+8,Software Development Engineer  |  Cloud,190067483,Lewisville,TX,US,11-15-2019
+9,User Interface Software Engineer,190114723,Chicago,IL,US,2-14-2020
+10,Software Engineer,190114724,Chicago,IL,US,2-14-2020
+11,J2EE Software Engineer,190095549,Columbus,OH,US,2-13-2020
+12,Java Software Engineer - Smart Data,200003981,Chicago,IL,US,2-14-2020
+13,Software Engineer Lead Developer for Regulatory Engagements Technology - VP,200006985,Jersey City,NJ,US,2-13-2020
+14,Software Engineer - Java / Microservices,190002074,Glasgow,SCT,US,5-9-2019
+15,Progress/Java - Software Engineer,190014437,Wilmington,DE,US,5-9-2019
+16,Senior Back End Java Software Engineer,190029070,Houston,TX,US,3-29-2019
+17,"Software Engineer (Python, Java) for FX Options Technology",190065310,Jersey City,NJ,US,2-12-2020
+18,Software Engineer,190114510,Chicago,IL,US,2-13-2020
+19,Software Engineer – Java - Cloud Developer,200005202,Tampa,FL,US,2-13-2020
+20,Windows Operations System Engineer,200009237,Columbus,OH,US,2-13-2020
+21,Windows Operations System Engineer,200009233,Columbus,OH,US,2-13-2020
+22,Senior Java Frameworks and Services Software Engineer,200011660,Westerville,OH,US,2-12-2020
+23,Software Engineer - Java,200006950,Tampa,FL,US,2-12-2020
+24,Java Software Engineer,190099609,Plano,TX,US,2-12-2020
+25,Site Reliability Engineer (SRE),200010450,Lewisville,TX,US,2-21-2020
+26,Java J2EE Software Engineering Lead,200012758,Columbus,OH,US,2-21-2020
+27,"Software Engineer - Java, Angular, React",200011111,Chicago,IL,US,2-20-2020
+28,Adobe Experience Manager / Full Stack  – Software Engineer,190109266,Columbus,OH,US,12-20-2019
+29,Software Engineer,190114350,Lewisville,TX,US,2-19-2020
+30,Software Engineer - Java,190112255,New York,NY,US,1-10-2020
+31,Java Software Engineer,200015993,Columbus,OH,US,2-20-2020
+32,Fullstack Software Engineer  - .Net,200011136,Chicago,IL,US,2-20-2020
+33,DevOps Engineer,200014011,Plano,TX,US,2-20-2020
+34,Vice President Software Engineering,200010374,Plano,TX,US,2-19-2020
+35,Software Engineer - Java,200009406,Plano,TX,US,2-19-2020
+36,Senior Big Data Software Engineering Lead,200015409,Lewisville,TX,US,2-19-2020
+37,Senior Big Data Software Engineering Lead,200015174,Lewisville,TX,US,2-19-2020
+38,Performance Engineer,190110927,Chicago,IL,US,2-19-2020
+39,Software Engineer - C#/.NET,200009742,Lewisville,TX,US,2-19-2020
+40,Data Visualization Software Engineer,200014576,Columbus,OH,US,2-19-2020
+41,Automation QA Engineer - RBAC,200010216,Lewisville,TX,US,2-19-2020
+42,Java Software Engineer,200013363,Columbus,OH,US,2-18-2020
+43,Software Engineer - Front End,200014909,New York,NY,US,2-18-2020
+44,Software Engineer - Java,200000485,Chicago,IL,US,2-18-2020
+45,Software Engineer (C# .NET),200005599,Chicago,IL,US,2-18-2020
+46,Software Engineer (C# .NET),200005595,Chicago,IL,US,2-18-2020
+47,Java (Microservices) Software Engineer,200003939,Plano,TX,US,2-18-2020
+48,Senior Software Engineer,200008364,Chicago,IL,US,2-18-2020
+49,Software Engineer - Customer Security Analysis & Response,200007379,Columbus,OH,US,2-24-2020
+50,Software Engineering,200004520,Wilmington,DE,US,2-24-2020
+51,Java Software Engineer,190111650,Houston,TX,US,1-24-2020
+52,Full Stack Software Engineer,200016384,Seattle,WA,US,2-24-2020
+53,Full Stack Software Engineer - Java/Angular,200003860,Houston,TX,US,2-24-2020
+54,Windows Operations System Engineer,200009239,Columbus,OH,US,2-24-2020
+55,DevOps Software Engineer,200011871,Columbus,OH,US,2-24-2020
+56,Full-Stack Software Engineer,200007561,Jersey City,NJ,US,2-19-2020
+57,Windows Operations System Engineer,190111141,Columbus,OH,US,2-24-2020
+58,Senior Software Engineer - Java,200012433,Tampa,FL,US,2-21-2020
+59,Digital Forensics Technology Engineer,200013080,Plano,TX,US,2-24-2020
+60,Senior Big Data Software Engineering Lead,200015425,Lewisville,TX,US,2-24-2020
+61,Infrastructure Engineering Lead,190103091,Columbus,OH,US,2-24-2020
+62,Infrastructure Engineer Lead,190114903,Columbus,OH,US,2-24-2020
+63,Software Engineer,200000075,Houston,TX,US,1-22-2020
+64,Software Engineering,200005766,Jersey City,NJ,US,1-22-2020
+65,Software Engineer - .Net,200012399,Tampa,FL,US,2-21-2020
+66,Site Reliability Engineer (SRE),200010450_1,Jersey City,NJ,US,2-21-2020
+67,Software Engineer,200017125,Newark,DE,US,2-24-2020
+68,Java/J2EE - Site Reliability Engineer,190102304,Newark,DE,US,2-25-2020
+69,Java Software Engineer / Developer,200010387,Columbus,OH,US,2-25-2020
+70,Software Engineer- JAVA/Angular,200007546,Houston,TX,US,2-25-2020
+71,Java Full-Stack Software Engineer,200007468,Houston,TX,US,2-25-2020
+72,Lead Java Software Engineer,200004101,Columbus,OH,US,2-25-2020
+73,ETL Software Engineer,200010405,Columbus,OH,US,2-25-2020
+74,Java Software Engineer Associate,200013974,Plano,TX,US,2-25-2020
+75,Java Software Engineer Associate,200013978,Plano,TX,US,2-25-2020
+76,Java Software Engineer Associate,200003928,Plano,TX,US,2-25-2020
+77,Java Software Engineer Associate,200003927,Plano,TX,US,2-25-2020
+78,Software Engineering,200017368,New York,NY,US,2-25-2020
+79,Java Software Engineer,200002967,Columbus,OH,US,1-24-2020
+80,Senior Web UI Software Engineer– Data Engineering,200011323,Chicago,IL,US,2-25-2020
+81,Software Engineer,200011291,Jersey City,NJ,US,2-25-2020
+82,Software Engineering,200016976,Columbus,OH,US,2-25-2020
+83,KDB Engineering for Securitized Products,200014196,Jersey City,NJ,US,2-25-2020
+84,Executive Director - Cloud Data Platform Engineering Lead,190085563_3,Seattle,WA,US,2-25-2020
+85,Executive Director - Cloud Data Platform Engineering Lead,190085563_2,San Mateo,CA,US,2-25-2020
+86,Executive Director - Cloud Data Platform Engineering Lead,190085563_1,Plano,TX,US,2-25-2020
+87,Executive Director - Cloud Data Platform Engineering Lead,190085563,Jersey City,NJ,US,2-25-2020
+88,Big Data Hadoop Engineer,200017398,Columbus,OH,US,2-25-2020
+89,Full Stack Software Engineer,200013328,Houston,TX,US,2-21-2020
+90,AI Platform Senior Backend Engineer - Assoc,200013167_1,New York,NY,US,2-18-2020
+91,AI Platform Senior Backend Engineer - Assoc,200013167,San Mateo,CA,US,2-18-2020
+92,Application Security Software Engineer,200005228,Westerville,OH,US,2-25-2020
+93,AI/ML Platform & Engineering - Software Engineer,200012021,Jersey City,NJ,US,2-19-2020
+94,Software Engineer - Java,200004440,New York,NY,US,2-26-2020
+95,QA Automation Engineer,200004336,New York,NY,US,2-26-2020
+96,AI/ML Platform & Engineering - Software Engineer,200013106,Jersey City,NJ,US,2-26-2020
+97,Sr  Lead Software Engineer,200013261,Houston,TX,US,2-26-2020
+98,CCB Fraud Technology Java Software Engineer,200001325,Wilmington,DE,US,2-26-2020
+99,Microservices Software Engineer – Digital Sales Technology,200010753,New York,NY,US,2-26-2020
+100,Microservices Software Engineer – Digital Sales Technology,200010754,New York,NY,US,2-26-2020
+101,AI/ML Platform & Engineering - Software Engineer,200013133,Jersey City,NJ,US,2-19-2020
+102,Java Software Engineer,200010231,Wilmington,DE,US,2-26-2020
+103,ETL Software Engineer - Digital Sales Technology,200010783,New York,NY,US,2-26-2020
+104,Salesforce Engineering Lead – Digital Sales Technology,200010751,New York,NY,US,2-26-2020
+105,Full Stack Robotics Software Engineer (Java/.Net),200017573,Houston,TX,US,2-25-2020
+106,Java Software Engineering Lead,190083612,Lewisville,TX,US,2-26-2020
+107,Java Software Engineer,200015855,Newark,DE,US,2-26-2020
+108,CyberSecurity Support & Production Support Engineer - Linux,200018001,Lewisville,TX,US,2-26-2020
+109,Big Data Software Engineer,200003653,Lewisville,TX,US,2-26-2020
+110,QA Automation Engineer,200017466,Westerville,OH,US,2-28-2020
+111,Senior Java Frameworks and Services Software Engineer,200011108,Westerville,OH,US,2-28-2020
+112,Full Stack Software Engineer - Java/Angular,200003971,Houston,TX,US,2-24-2020
+113,Senior Java Software Engineer,190108262,Chicago,IL,US,11-25-2019
+114,Software Automation Engineer,200011686,Chicago,IL,US,2-27-2020
+115,Software Automation Engineer,200011677,Chicago,IL,US,2-27-2020
+116,FullStack Software Engineer - Java,200018142,Chicago,IL,US,2-27-2020
+117,Digital Java Software Engineer,200010979,Wilmington,DE,US,2-27-2020
+118,DevOps Engineer-Python,200018645,Houston,TX,US,2-27-2020
+119,"Full Stack Software Engineer - C#, .NET",200013630,Plano,TX,US,2-27-2020
+120,"Software Engineer - C#, .NET",200013634,Plano,TX,US,2-27-2020
+121,iOS Developer - Mobile Engineer,200013596,New York,NY,US,2-26-2020
+122,Core Java Software Engineer- (Serverside),200015840,Houston,TX,US,2-27-2020
+123,Serverside Core Java Engineer,200015830,Houston,TX,US,2-27-2020
+124,Software Engineer,200017911,Columbus,OH,US,2-27-2020
+125,Software Engineering - API Lead Engineer,200015271,Jersey City,NJ,US,2-26-2020
+126,Java (Cloud Microservices) Software Engineer,200014206,Plano,TX,US,2-26-2020
+127,Java (Cloud Microservices) Software Engineer,200014205,Plano,TX,US,2-26-2020
+128,Java (Cloud Microservices) Software Engineer,200014203,Plano,TX,US,2-26-2020
+129,AI Engineering - Senior Machine Learning Engineer,190086554_1,New York,NY,US,1-27-2020
+130,AI Engineering - Senior Machine Learning Engineer,190086554,San Mateo,CA,US,1-27-2020
+131,Sr. Full Stack Software Engineer - Java/Angular,200003974,Houston,TX,US,2-24-2020
+132,Global Java/Cloud Engineer,200011421,Newark,DE,US,2-27-2020
+133,"Vice President, Software Engineer - Splunk Monitoring SME",190065216,Plano,TX,US,8-28-2019
+134,Full Stack .NET Software Engineer,200008248,Houston,TX,US,1-30-2020
+135,Java Software Engineer,200002100,Columbus,OH,US,1-30-2020
+136,Public Cloud - Associate Software Engineer (Java/Microservices),200007840,San Mateo,CA,US,3-1-2020
+137,Full-stack Java Software Engineer,200001306,Houston,TX,US,2-28-2020
+138,Technology Operations - Network Engineer / Support,190108059,Columbus,OH,US,11-25-2019
+139,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079_5,Washington,DC,US,2-28-2020
+140,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079_4,Lewisville,TX,US,2-28-2020
+141,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079_3,Jersey City,NJ,US,2-28-2020
+142,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079_2,Columbus,OH,US,2-28-2020
+143,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079_1,Brooklyn,NY,US,2-28-2020
+144,Executive Director - Network & Systems Engineering  |  Cybersecurity,200001079,Wilmington,DE,US,2-28-2020
+145,Java React – Software Engineer,200005532,Newark,DE,US,2-28-2020
+146,Java Big data Engineer,200012415,New York,NY,US,2-28-2020
+147,Senior Lead Java Software Engineer,200000456_1,Columbus,OH,US,2-28-2020
+148,Senior Lead Java Software Engineer,200000456,Wilmington,DE,US,2-28-2020
+149,Software Engineer - Cybersecurity,200019206,Seattle,WA,US,2-28-2020
+150,Java Microservices Software Engineer Lead,200019046,Westerville,OH,US,2-28-2020
+151,Java Frameworks and Services Software Engineer - Big Data,200015849,Westerville,OH,US,2-28-2020
+152,Java Frameworks and Services Software Engineer - Big Data,200015723,Westerville,OH,US,2-28-2020
+153,Pega Software Engineer,200020336,Columbus,OH,US,3-3-2020
+154,Data Engineer,200011806,Houston,TX,US,3-3-2020
+155,Senior eTrading Software Engineer,200003334,Chicago,IL,US,1-31-2020
+156,"Commercial Card, SUA Solutions Engineer, VP",200008717,Chicago,IL,US,1-31-2020
+157,Python Software Engineer – Data Engineering,200011318,Chicago,IL,US,3-2-2020
+158,Software Engineer,200003087,Wilmington,DE,US,3-2-2020
+159,Software Engineering (Java /.Net/Springboot),200003944,Plano,TX,US,3-2-2020
+160,Software Engineering (Java Full Stack / Microservices / Kafka),200017912,Chicago,IL,US,3-2-2020
+161,SQL and PL/SQL Software Engineer,190111259,Wilmington,DE,US,3-2-2020
+162,Sr. Software Engineer (UI/Javascript),200018012,Houston,TX,US,2-26-2020
+163,AI/ML Platform - Senior Cloud Engineer VP,200013103,Seattle,WA,US,3-2-2020
+164,AI/ML Platform & Engineering - Software Engineer,200013109,Seattle,WA,US,3-2-2020
+165,Software Engineer - Cloud Technology,200017540,Newark,DE,US,3-2-2020
+166,Software Engineer - Java,200017533,Newark,DE,US,3-2-2020
+167,Java Software Engineer,200000071,Columbus,OH,US,1-2-2020
+168,Windows Desktop Engineer,190094022,Columbus,OH,US,12-2-2019
+169,Big Data Software Engineer,200017653,Wilmington,DE,US,3-4-2020
+170,Lead Fullstack Software Engineer,200017360,Chicago,IL,US,3-4-2020
+171,"Military Pathways- Direct Hire Program- Consumer and Community Banking – Software Engineer – Wilmington, DE.",200015548,Wilmington,DE,US,2-26-2020
+172,"Military Pathways- Direct Hire Program- Consumer and Community Banking – Software Engineer – Wilmington, DE.",200013968,Wilmington,DE,US,2-19-2020
+173,Big Data Engineer - Consumer and Community Banking Technology,200020396,Columbus,OH,US,3-3-2020
+174,Big Data Software Engineer,190047263,Houston,TX,US,2-13-2020
+175,Java and Cloud Software Engineer,190096583,Wilmington,DE,US,3-4-2020
+176,Site Reliability Engineer,200010225,Lewisville,TX,US,3-3-2020
+177,Software Engineer - Java,200015734,Houston,TX,US,3-3-2020
+178,Java Software Engineer,200014927,Chicago,IL,US,2-21-2020
+179,"Military Pathways- Direct Hire Program - Commercial Bank – Software Engineer – Chicago, IL",200012382,Chicago,IL,US,2-24-2020
+180,Senior Network Perimeter & Malware Detection Engineer,190107445,Wilmington,DE,US,3-5-2020
+181,Data Scientist - Analytics Software Engineer,200006176,New York,NY,US,3-4-2020
+182,Java Software Engineer,200012480,Plano,TX,US,3-5-2020
+183,Senior Quant Software Engineer,200015084,Jersey City,NJ,US,3-5-2020
+184,Software Engineer - Back-end,200021132,Lewisville,TX,US,3-5-2020
+185,Mobile QA Software Engineer,190089509,Columbus,OH,US,1-24-2020
+186,"Associate, Software Engineer",200021137,Lewisville,TX,US,3-5-2020
+187,Senior Hadoop Engineer,190107804_3,Plano,TX,US,3-3-2020
+188,Senior Hadoop Engineer,190107804_2,Lewisville,TX,US,3-3-2020
+189,Senior Hadoop Engineer,190107804_1,Houston,TX,US,3-3-2020
+190,Senior Hadoop Engineer,190107804,Houston,TX,US,3-3-2020
+191,Office 365 - OneDrive Software Engineer,180125825,Chicago,IL,US,5-9-2019
+192,Military Pathways Program Software Engineer,200011132,Chicago,IL,US,2-19-2020
+193,Software Engineer - Java for ML Product,200013892,New York,NY,US,3-6-2020
+194,Qlik Business Intelligence Reporting Engineer,200021835,Columbus,OH,US,3-6-2020
+195,"Software Engineer - Core Search Engineer, Elasticsearch",200006943,Jersey City,NJ,US,2-4-2020
+196,"Software Engineer, Lead - Core Search Engineer, Elasticsearch",200006938,Jersey City,NJ,US,2-4-2020
+197,Software Services Engineer,200010317,Newark,DE,US,3-6-2020
+198,Software Engineer – Full Stack Developer,200015169,Newark,DE,US,3-6-2020
+199,Software Engineer (Applied AI/ML),200021801,New York,NY,US,3-6-2020
+200,Full Stack – Software Engineer,200013686,Newark,DE,US,3-6-2020
+201,"Software Engineer, Lead - UI Expert, Javascript, React, D3",190106611,New York,NY,US,3-6-2020
+202,Full Stack Engineer,200019477,Plano,TX,US,3-6-2020
+203,Full Stack Engineer,200019471,Plano,TX,US,3-6-2020
+204,"Software Engineer, Lead - CTO Accelerator",190111610,Brooklyn,NY,US,3-6-2020
+205,"Software Engineer: Java, Big Data for ML Product Platform- Lead",190106918,New York,NY,US,3-6-2020
+206,Java Full Stack Digital Software Engineer,200015366,Columbus,OH,US,3-6-2020
+207,Java Software Engineer,190099233,New York,NY,US,3-6-2020
+208,Automation Platforms Engineer Lead,200015375,Plano,TX,US,3-6-2020
+209,Java Software Engineer,200004600,Wilmington,DE,US,3-2-2020
+210,.NET Applications Software Engineer,200019119,Houston,TX,US,3-6-2020
+211,Software Engineer,200021596,Newark,DE,US,3-6-2020
+212,Senior UI Javascript Engineer,200001081,Houston,TX,US,2-10-2020
+213,Senior Java Engineer - MQ,200001085,Houston,TX,US,2-21-2020
+214,Software Engineer - Full Stack (Java / React / Angular),190080872,Plano,TX,US,12-27-2019
+215,"VP, Site Reliability Engineer - Manager",190100183,Newark,DE,US,12-18-2019
+216,Site Reliability Engineer (SRE),190106735,Wilmington,DE,US,2-23-2020
+217,"Software Engineer, Lead - Private Cloud Delivery Manager",190107496,Jersey City,NJ,US,12-18-2019
+218,Site Reliability Engineer,200013460,Plano,TX,US,2-21-2020
+219,Site Reliability Engineer,200013453,Plano,TX,US,2-21-2020
+220,Software Engineer - Java Microservices / REST API,200013050,Tampa,FL,US,2-26-2020
+221,"Associate, Software Engineer - Cloud/Java",200011494,Columbus,OH,US,2-12-2020
+222,Java Full Stack Software Engineer,200009825,Columbus,OH,US,2-10-2020
+223,Software Engineer - Customer Security Analysis & Response,200001237,Columbus,OH,US,2-10-2020
+224,Java (Microservices) Software Engineer,200003934,Plano,TX,US,2-11-2020
+225,Java / API Software Engineer Lead,200009115,Lewisville,TX,US,2-11-2020
+226,Public Cloud - Sr. Software Engineer - DevOps,200008053,San Mateo,CA,US,3-1-2020
+227,Senior Security Software Engineer,190113617,Plano,TX,US,2-24-2020
+228,Big Data Software Engineer - Java & Spark,190110694,Plano,TX,US,2-12-2020
+229,Big Data Software Engineer - Java Spark & Hadoop,190110791,Plano,TX,US,2-27-2020
+230,GMI iSeries Software Engineer,200019115,Chicago,IL,US,3-3-2020
+231,AI/ML Platform - Senior Cloud Engineer VP,200014948,Jersey City,NJ,US,3-2-2020
+232,Software Engineer,200018458,Wilmington,DE,US,3-2-2020
+233,"Python, Hadoop, and Machine Learning Software Engineer",200014128,Wilmington,DE,US,2-27-2020
+234,Lead Java Software Engineer,200018753,Houston,TX,US,2-27-2020
+235,Software Engineering,200018522,Plano,TX,US,2-27-2020
+236,Software Engineering,200017504,Jersey City,NJ,US,2-27-2020
+237,Java/Spark Software Engineer,200005737,Columbus,OH,US,1-22-2020
+238,Data Engineer,200003851,Plano,TX,US,2-10-2020
+239,Software Engineer - Java,200003992,Seattle,WA,US,2-26-2020
+240,Java Software Engineer,200000242,Columbus,OH,US,1-13-2020
+241,VP Java - Software Engineer,200007619,Wilmington,DE,US,1-28-2020
+242,.NET Applications Software Engineer,200005551,Houston,TX,US,1-30-2020
+243,Senior Infrastructure  Engineer,200003907,Chicago,IL,US,1-21-2020
+244,Software Engineer,200005145,Chicago,IL,US,1-21-2020
+245,Big Data Software Engineer,200005482,Newark,DE,US,1-22-2020
+246,Senior Software Engineer,190113402,Houston,TX,US,1-27-2020
+247,Windows Site Reliability Engineer,200004142,Columbus,OH,US,1-23-2020
+248,"Fullstack Software Engineer, Java/JavaScript",200000328,Westerville,OH,US,1-24-2020
+249,Python Web Software Engineer,200000851,Houston,TX,US,1-22-2020
+250,Informatica - Site Reliability Engineer,190099599,Newark,DE,US,1-24-2020
+251,QA Automation Software Engineer,200000798,Wilmington,DE,US,1-21-2020
+252,Software Engineering - Data Engineer / Big Data,190108426,Tampa,FL,US,1-22-2020
+253,Software Engineer - Java,190111304,Tampa,FL,US,1-24-2020
+254,Lead Software Engineer - Full Stack Java,190107412,Columbus,OH,US,3-4-2020
+255,Java Software Engineer -   Spark & Big Data,200003597,Columbus,OH,US,1-14-2020
+256,Software Engineer - RDT Document Management,200003631,Newark,DE,US,2-26-2020
+257,Software Engineer - RDT Document Management,200003630,Newark,DE,US,2-24-2020
+258,Software Engineer (Core Java),200003496,Houston,TX,US,1-14-2020
+259,Java Software Engineer (Java/ReactJS ),200003379,Houston,TX,US,1-14-2020
+260,Software Engineer - Big Data,200019621,Columbus,OH,US,3-2-2020
+261,"Software Engineer, Associate II - QA/Test Automation",200008265,Columbus,OH,US,3-2-2020
+262,"Military Pathways- Direct Hire Program- Consumer and Community Banking – Software Engineer – Wilmington, DE.",200015825,Wilmington,DE,US,3-2-2020
+263,Reporting and Cloud Software Engineer,200003206,Columbus,OH,US,3-3-2020
+264,WePay- Sales Engineer,190045685,Redwood City,CA,US,5-10-2019
+265,Software Engineer,190103652,Columbus,OH,US,2-27-2020
+266,Military Pathways Program Software Engineer,200009143,Chicago,IL,US,2-10-2020
+267,"Military Pathways- Direct Hire Program - Commercial Bank – Software Engineer – Chicago, IL",200003968,Chicago,IL,US,2-19-2020
+268,Software Engineer (Java),200003980,Chicago,IL,US,2-10-2020
+269,Java Software Engineer,190109729,New York,NY,US,2-20-2020
+270,Java Software Engineer,190109738,New York,NY,US,2-11-2020
+271,Java Software Engineer,190113188,New York,NY,US,2-10-2020
+272,Full Stack Web Software Engineer (React & Java/Python/Node.js),200005562,Houston,TX,US,2-4-2020
+273,Python Software Engineer,200005338,Houston,TX,US,2-20-2020
+274,Full Stack Software Engineer (Java/.Net),190114082,Houston,TX,US,2-3-2020
+275,Full Stack Web Software Engineer (Javascript/Python),200005561,Houston,TX,US,2-4-2020
+276,Front End Engineer - UI Developer,190109700,New York,NY,US,1-31-2020
+277,Senior Java Software Engineer,200005683,New York,NY,US,2-4-2020
+278,Sr. Software Engineer-Java,200007777,Houston,TX,US,1-29-2020
+279,Lead Process Automation Software Engineer,200003627,Columbus,OH,US,2-4-2020
+280,Mobile QA Software Engineer,190090856,San Francisco,CA,US,1-16-2020
+281,Big Data Software Engineer,190110352,Houston,TX,US,1-13-2020
+282,AI Engineering - Machine Learning Engineer,190103971_1,San Mateo,CA,US,12-17-2019
+283,AI Engineering - Machine Learning Engineer,190103971,Seattle,WA,US,12-17-2019
+284,Java Software Engineer - Big Data,190112404,Chicago,IL,US,12-13-2019
+285,Machine Learning Engineering Lead,190108645,Columbus,OH,US,2-13-2020
+286,Site Reliability Engineer - Digital Technology,190112259,Chicago,IL,US,12-12-2019
+287,Software Engineer - Java,200013461,Tampa,FL,US,2-14-2020
+288,Software Engineer,200013458,Tampa,FL,US,2-14-2020
+289,Big Data Software Engineer,200013589,Wilmington,DE,US,2-13-2020
+290,Big Data Software Engineer,200013563,Houston,TX,US,2-13-2020
+291,Big Data Software Engineer,200013562,Houston,TX,US,2-13-2020
+292,J2EE Software Engineer,200013559,Columbus,OH,US,2-13-2020
+293,Software Engineer - Big Data Platform API's,190083117,New York,NY,US,2-26-2020
+294,Big Data Site Reliability Engineer,190104805,Columbus,OH,US,11-12-2019
+295,Executive Director - Cloud Data Engineering Lead,190090071_3,Seattle,WA,US,2-25-2020
+296,Executive Director - Cloud Data Engineering Lead,190090071_2,San Mateo,CA,US,2-25-2020
+297,Executive Director - Cloud Data Engineering Lead,190090071_1,Plano,TX,US,2-25-2020
+298,Executive Director - Cloud Data Engineering Lead,190090071,Jersey City,NJ,US,2-25-2020
+299,Mobile Software Engineer - Android,190100175,Columbus,OH,US,2-18-2020
+300,Mobile Software Engineer - iOS,190100190,Columbus,OH,US,2-11-2020
+301,SRE Software Engineer,190110576,Wilmington,DE,US,2-12-2020
+302,Java Software Engineer,200003509,Columbus,OH,US,2-24-2020
+303,Senior Software Engineer,200012823,Seattle,WA,US,2-14-2020
+304,Java / Big Data Software Engineer,200003479,New York,NY,US,2-26-2020
+305,ETL Software Engineer,190092920,Columbus,OH,US,3-4-2020
+306,Pega - Business Process Management - Software Engineer Lead,200010865,Wilmington,DE,US,2-10-2020
+307,Pega - Business Process Management - Software Engineer,200010878,Wilmington,DE,US,2-10-2020
+308,Software Engineer - Java,200010191,Tampa,FL,US,2-13-2020
+309,Performance Engineer,200009322,Columbus,OH,US,2-10-2020
+310,Java Software Engineer,200009339,Houston,TX,US,2-3-2020
+311,Data Protection Engineer - Software Engineer,200006969,Columbus,OH,US,2-18-2020
+312,Java Software Engineer,200020109,Westerville,OH,US,3-3-2020
+313,Big Data Software Engineer,200020089,Lewisville,TX,US,3-3-2020
+314,"Software Engineer, Lead - Java, AM Technology",190113815,New York,NY,US,2-13-2020
+315,Big Data Software Engineer,190109686,Houston,TX,US,1-14-2020
+316,GIAM Head of Vault Engineering,190114041,Jersey City,NJ,US,2-19-2020
+317,Java / Cloud Software Engineer,190102874,Jersey City,NJ,US,1-15-2020
+318,Director - Site Reliability Engineering,190108544,Chicago,IL,US,2-13-2020
+319,Python Software Engineer,190096117,Westerville,OH,US,12-12-2019
+320,Site Reliability Engineer - Big Data/Hadoop,190103876,Newark,DE,US,1-13-2020
+321,Software Engineer - Cyber Build Team,190109406,Wilmington,DE,US,2-23-2020
+322,Big Data Software Engineer,190110113,Chicago,IL,US,3-3-2020
+323,Senior Big Data Engineer,190090135,Houston,TX,US,2-13-2020
+324,Senior Full Stack Java Software Engineer,200012998,Columbus,OH,US,2-12-2020
+325,Java Software Engineer,200012840,Columbus,OH,US,2-12-2020
+326,Senior Big Data Software Engineer,200012458,Houston,TX,US,2-12-2020
+327,Senior Big Data Software Engineer,200012459,Houston,TX,US,2-12-2020
+328,Site Reliability Engineer - DevOps Champion,200009875,Orem,UT,US,2-28-2020
+329,Java Software Engineer,200009883,New York,NY,US,2-4-2020
+330,Mobile Software Engineer,200005921,Westerville,OH,US,2-10-2020
+331,Java MicroServices Software Engineer,200009632,Seattle,WA,US,2-18-2020
+332,Senior Java Software Engineer - Lead,200003894,Chicago,IL,US,1-28-2020
+333,Machine Learning Engineer - AI Platform,200004841,San Mateo,CA,US,1-28-2020
+334,Senior Java Engineer,200007214,Westerville,OH,US,1-27-2020
+335,Frontend Software Engineer (Javascript/React),200006503,Houston,TX,US,1-29-2020
+336,Java Software Engineer - Big Data,200007049,Chicago,IL,US,1-27-2020
+337,Senior Java Software Engineer,200001587,Plano,TX,US,1-28-2020
+338,Java Software Engineer - RESTful APIs/Microservices,190114254,Plano,TX,US,2-26-2020
+339,Java Software Engineer,190111447,Chicago,IL,US,1-22-2020
+340,"Software Engineer, Lead - CTO Accelerator",190110471,Jersey City,NJ,US,1-17-2020
+341,Big Data Software Engineer,190084654,Plano,TX,US,2-18-2020
+342,Big Data Software Engineer,190084974,Plano,TX,US,2-18-2020
+343,Software Engineer Lead - Consumer and Community Banking Controls Technology,200003023,Columbus,OH,US,1-15-2020
+344,Sr. Storage Infrastructure Engineer,200002986,Columbus,OH,US,1-13-2020
+345,Core Java - Software Engineer,200001036,Wilmington,DE,US,1-17-2020
+346,Software Engineer E-Trading,200006748,New York,NY,US,2-18-2020
+347,C++ Electronic Trading Core Software Engineer,200001413,Jersey City,NJ,US,2-18-2020
+348,Software Automation Engineer,200011185,Chicago,IL,US,2-19-2020
+349,"Military Pathways- Direct Hire Program- Consumer and Community Banking – Software Engineer – Wilmington, DE.",200010980,Wilmington,DE,US,2-19-2020
+350,Senior Java/J2EE Software Engineer,190098924,New York,NY,US,11-25-2019
+351,Network Virtualization Engineer,190107776,Seattle,WA,US,11-22-2019
+352,CCB Treasury - Data Engineer - Vice President,190105952,Columbus,OH,US,11-25-2019
+353,Office 365 ProPlus Deployment Engineer,190102441,Columbus,OH,US,11-22-2019
+354,Software Engineer - Lead Resiliency/Reliability,190102321,Tampa,FL,US,2-25-2020
+355,Platform Services - Software Engineer - Observability Engineering,190102458,Plano,TX,US,2-10-2020
+356,Machine Learning Engineer - Compliance Technology,190106385,Lewisville,TX,US,2-25-2020
+357,Java J2EE Site Reliability Engineering,190106267,Westerville,OH,US,11-18-2019
+358,AMP - Software engineer,200010533,New York,NY,US,2-11-2020
+359,Software Engineering - Vice President,180095553,Hyderabad,AP,US,1-3-2020
+360,Software Engineer-UI,170121417,Plano,TX,US,5-9-2019
+361,Lead Software Engineer - Java/J2EE,170073136,Jersey City,NJ,US,5-9-2019
+362,Senior Java - Microservices Software Engineer,200011248,Columbus,OH,US,3-2-2020
+363,Automation Framework Engineer,200008808,Westerville,OH,US,3-4-2020
+364,Salesforce Software Engineer Lead,200018331,Plano,TX,US,2-26-2020
+365,Software Engineering (Java Full Stack / Microservices / Kafka),200017920,Chicago,IL,US,3-2-2020
+366,Python / Cloud Software Engineer- Site Reliability Engineering (SRE) / DevOps,200017144,Brooklyn,NY,US,2-26-2020
+367,"Associate, Software Engineering",200017131,Plano,TX,US,2-28-2020
+368,Site Reliability Engineer - Production Support,200018222,Plano,TX,US,2-26-2020
+369,Full Stack Software Engineer - Java / JavaScript / UI,200011964,Westerville,OH,US,2-28-2020
+370,Java Software Engineer / Developer,200010886,Westerville,OH,US,2-26-2020
+371,Junior Software Engineer - Business Intelligence,200012987,Columbus,OH,US,2-27-2020
+372,Principal Engineer - Data Platform Executive Director,200012372_1,San Mateo,CA,US,2-24-2020
+373,Principal Engineer - Data Platform Executive Director,200012372,Jersey City,NJ,US,2-24-2020
+374,Full Stack Software Engineer,200007553,Jersey City,NJ,US,2-26-2020
+375,Software Engineer,200008082,Chicago,IL,US,2-28-2020
+376,SRE - Site Reliability Engineer,200009908_1,Houston,TX,US,3-4-2020
+377,SRE - Site Reliability Engineer,200009908,Houston,TX,US,3-4-2020
+378,Platform Services Site Reliability Engineer - Vice President,200007348,Jersey City,NJ,US,2-27-2020
+379,Software Engineer - Vice President,200009581,Jersey City,NJ,US,2-26-2020
+380,Athena Core Software Engineer,200014104,Jersey City,NJ,US,2-26-2020
+381,Software Engineer - Vice President,200009582,Jersey City,NJ,US,2-24-2020
+382,Senior Big Data Software Engineer,200015432,Lewisville,TX,US,2-24-2020
+383,Infrastructure Engineer Lead,200003938,Columbus,OH,US,2-25-2020
+384,"Vice President, Software Engineer",200009617,Columbus,OH,US,3-2-2020
+385,"Associate, Software Engineering",200018566,Wilmington,DE,US,2-28-2020
+386,"Associate, Software Engineer",200018466,Chicago,IL,US,3-2-2020
+387,"Associate, Software Engineer",200018591,Wilmington,DE,US,2-28-2020
+388,eTrading Java Software Engineer,200018350,Chicago,IL,US,2-28-2020
+389,Java Software Engineer - CCB Digital Technology,200006978,Columbus,OH,US,2-27-2020
+390,Level 3 Software Support Engineer,200004958,Columbus,OH,US,3-2-2020
+391,Java Software Engineer,200015292,Columbus,OH,US,2-28-2020
+392,Lead Site Reliability Engineer,200020648,Houston,TX,US,3-4-2020
+393,Site Reliability Engineer,200020630,Houston,TX,US,3-4-2020
+394,Software Engineer,200018507,Redwood City,CA,US,3-2-2020
+395,Software Engineer,200018530,Jersey City,NJ,US,3-2-2020
+396,API Gateway Software Engineer,200018684,Plano,TX,US,3-2-2020
+397,ReactJS Software Engineer,200004947,Westerville,OH,US,3-2-2020
+398,Site Reliability Engineer,200016049,Lewisville,TX,US,2-27-2020
+399,UI Software Engineer,200015690,Columbus,OH,US,3-2-2020
+400,Java - Microservices Software Engineer,200011254,Columbus,OH,US,3-2-2020
+401,Big Data Modeler/Software Engineer,190113642_1,Lewisville,TX,US,1-29-2020
+402,Big Data Modeler/Software Engineer,190113642,Columbus,OH,US,1-29-2020
+403,QA Automation Engineer Lead,200005549,Lewisville,TX,US,2-12-2020
+404,QA Automation Software Engineer,200010466_1,Jersey City,NJ,US,2-12-2020
+405,QA Automation Software Engineer,200010466,Lewisville,TX,US,2-12-2020
+406,Software Engineer,200011732,Chicago,IL,US,2-18-2020
+407,Full Stack Java Software Engineer,200006991,Columbus,OH,US,2-14-2020
+408,Lead Oracle Database Engineer,200011991,Chicago,IL,US,2-11-2020
+409,Senior Java Engineer / Cassandra/ Kafka,200010133,Columbus,OH,US,2-18-2020
+410,Java Spark - Software Engineer,200009826,Wilmington,DE,US,2-13-2020
+411,Pentaho / ETL Software Engineer,200011960,Columbus,OH,US,2-12-2020
+412,Site Reliability Engineer - AWS/Linux,190093931,Houston,TX,US,10-2-2019
+413,Lead Software Engineer,190092479,Chicago,IL,US,10-15-2019
+414,Java Software Engineer Lead,200021054,Columbus,OH,US,3-5-2020
+415,Site Reliability Engineer,200012035,Lewisville,TX,US,3-4-2020
+416,Application Site Reliability Engineer,190088508,Lewisville,TX,US,3-5-2020
+417,Software Engineer,200020167,Jersey City,NJ,US,3-4-2020
+418,Software Engineer,200017331,Newark,DE,US,3-3-2020
+419,"Senior Big Data Engineer, Executive Director",190037063,Jersey City,NJ,US,3-5-2020
+420,"Software Engineer, Associate II",190112563,Columbus,OH,US,2-6-2020
+421,Scala Engineer,200007404,Chicago,IL,US,2-6-2020
+422,Full Stack Java Software Engineer,190084961,Newark,DE,US,1-6-2020
+423,Lead Big Data Engineer / Architect - Director,190112488,Houston,TX,US,1-6-2020
+424,Site Reliability Engineer (SRE) |  Cloud,190085456,Seattle,WA,US,1-6-2020
+425,Public Cloud - Software Engineer - SRE,200008050,San Mateo,CA,US,3-1-2020
+426,Public Cloud - Lead Software Engineer - SRE,200008054,San Mateo,CA,US,3-1-2020
+427,Software Engineer,200013325,Chicago,IL,US,3-7-2020
+428,Software Engineer,200013875,Chicago,IL,US,3-7-2020
+429,Cloud Container Orchestration - Infrastructure Engineer,200012565,Columbus,OH,US,3-7-2020
+430,Cloud Foundry - Infrastructure Engineer,200012561,Columbus,OH,US,3-7-2020
+431,Software Engineer,200006862,Plano,TX,US,2-18-2020
+432,Cloud Data Science and Design – Infrastructure Engineer,200013051,Columbus,OH,US,3-7-2020
+433,Full-stack Java Software Engineer,200019590,Chicago,IL,US,3-7-2020
+434,Automation/Site Reliability Engineer Lead,200010130,Columbus,OH,US,2-5-2020
+435,Big Data Software Engineer Lead,190094864,Lewisville,TX,US,10-4-2019
+436,Cloud Software Engineer,190103190,Chicago,IL,US,12-5-2019
+437,Data Software Engineer,200003128,Wilmington,DE,US,2-5-2020
+438,Java Software Engineer,200002989,Wilmington,DE,US,2-5-2020
+439,Big Data Modeler/Software Engineer,190113642_2,Newark,DE,US,1-29-2020
+440,Software/ DevOps Engineer,200000670,Columbus,OH,US,1-6-2020
+441,Software Engineer,200007416,Chicago,IL,US,2-6-2020
+442,"Vice President, Infrastructure Engineer",200005629,Houston,TX,US,2-6-2020
+443,Site Reliability/Production Support Engineer,190109433,Chicago,IL,US,1-6-2020
+444,Software Engineer  - DevOps | Cloud,190093221,Seattle,WA,US,1-6-2020
+445,Full Stack Software Engineer - Senior,190108706,Newark,DE,US,1-27-2020
+446,Senior Fullstack Software Engineer,190107607,Chicago,IL,US,12-6-2019
+447,Software Engineer Java/J2EE,190104069,Columbus,OH,US,1-6-2020
+448,Java Software Engineer,190110065,Chicago,IL,US,3-7-2020
+449,Lead Windows Desktop Engineer,190091123,Columbus,OH,US,12-2-2019
+450,Software Engineer - JavaScript,200007361,Chicago,IL,US,2-6-2020
+451,Senior Cloud Software Engineer,190101946,Columbus,OH,US,2-3-2020
+452,Java Software Engineer,200011371,Columbus,OH,US,2-12-2020
+453,Site Reliability Engineer,200012489,Lewisville,TX,US,2-27-2020
+454,Senior iOS Developer - Mobile Software Engineer,200001317_1,Palo Alto,CA,US,1-7-2020
+455,Senior iOS Developer - Mobile Software Engineer,200001317,Mountain View,CA,US,1-7-2020
+456,Senior Android Developer - Mobile Engineer,200003622_1,Palo Alto,CA,US,1-14-2020
+457,Senior Android Developer - Mobile Engineer,200003622,Mountain View,CA,US,1-14-2020
+458,"VP, Java Full Stack Software Engineer",200021013,Newark,DE,US,3-9-2020
+459,Senior Full Stack Java Software Engineer with React,200021985,Chicago,IL,US,3-9-2020
+460,Big Data application Engineer,200013950,Jersey City,NJ,US,3-9-2020
+461,"Software Engineer - Full Stack Engineer (AWS, Java, Spring, React)",200021726,Chicago,IL,US,3-9-2020
+462,Lead Software Engineer,200021595,Jersey City,NJ,US,3-9-2020
+463,Full Stack Software Engineer,200019220,Seattle,WA,US,3-9-2020
+464,Java Software Engineer Lead,200015816,Chicago,IL,US,3-9-2020
+465,"Associate, Software Engineer (Kafka)",200019083,Lewisville,TX,US,3-9-2020
+466,C++ Lead Engineer – Head of Low Latency Market Connectivity,200011119,Chicago,IL,US,3-4-2020
+467,Android Mobile Software Engineer,200008669,Columbus,OH,US,3-9-2020
+468,iOS Mobile Software Engineer,200015270,Columbus,OH,US,3-9-2020
+469,Hadoop and Big Data Software Engineer,190090907,Wilmington,DE,US,2-28-2020
+470,Software Engineer - Java/Angular,200007908,Jersey City,NJ,US,2-27-2020
+471,Software Engineer - Java/Angular,200007913,Jersey City,NJ,US,2-24-2020
+472,Software Engineer,200014953,New York,NY,US,3-9-2020
+473,Full Stack Software Engineer,200007415,Wilmington,DE,US,2-7-2020
+474,Software Engineer - Java,200010176,Tampa,FL,US,3-9-2020
+475,Senior Fullstack Java Software Engineer - React/Redux,200019498,Houston,TX,US,3-9-2020
+476,Full Stack Java Software Engineer - React/Redux,200019494,Houston,TX,US,3-9-2020
+477,A/V Engineer,200002553,New York,NY,US,3-9-2020
+478,Card Services - Marketing Analytics Lead - Report Engineer,200011031,Wilmington,DE,US,3-9-2020
+479,Senior Java Software Engineer,190113197,New York,NY,US,3-9-2020
+480,Senior Java Engineer,200022401,Westerville,OH,US,3-9-2020
+481,iOS Software Engineer,200022351_2,Palo Alto,CA,US,3-9-2020
+482,iOS Software Engineer,200022351_1,Mountain View,CA,US,3-9-2020
+483,iOS Software Engineer,200022351,San Francisco,CA,US,3-9-2020
+484,Senior Software Engineer,200017486,Chicago,IL,US,3-9-2020
+485,Senior Software Engineer,190114045,Houston,TX,US,2-7-2020
+486,Senior Software Engineer,190114042,Houston,TX,US,2-7-2020
+487,Java Software Engineer,190110766,New York,NY,US,2-7-2020
+488,"Full Stack Java Software Engineer, VP",190102333,Columbus,OH,US,2-7-2020
+489,Team Lead Full Stack Java Engineer,190111392,Chicago,IL,US,1-7-2020
+490,Software Engineer - Java,200009144,Chicago,IL,US,2-7-2020
+491,Software Engineer for Athena Core,190023690,Jersey City,NJ,US,3-7-2020
+492,Full Stack Java Engineer,190111397,Chicago,IL,US,12-20-2019
+493,Software Engineering,200022334,Lewisville,TX,US,3-10-2020
+494,Platform Engineering,200022287,New York,NY,US,3-10-2020
+495,Software Engineer,200022100,New York,NY,US,3-10-2020
+496,Infrastructure Engineering,200022569,Jersey City,NJ,US,3-10-2020
+497,Software Engineer - Java,200018174,Lewisville,TX,US,3-10-2020
+498,Mainframe Infrastructure Solutions Engineer,200013574,Wilmington,DE,US,3-10-2020
+499,Infrastructure Solutions Engineer,200013565,Wilmington,DE,US,3-10-2020
+500,Full Stack - Java Software Engineer,200011023,Columbus,OH,US,3-10-2020
+501,Software Engineer,200008392,Plano,TX,US,3-10-2020
+502,Software Engineering,200022147,Jersey City,NJ,US,3-10-2020
+503,Software Engineer,200022057,Lewisville,TX,US,3-10-2020
+504,Mobile Software Engineer-  iOS,200013671,Columbus,OH,US,3-10-2020
+505,UNIX Site Reliability Engineer,200022130,Columbus,OH,US,3-10-2020
+506,Software Engineering,200022066,Jersey City,NJ,US,3-10-2020
+507,Software Engineer - Java/Adobe Experience Manager,180121898,Columbus,OH,US,3-10-2020
+508,Software Engineer,200022343,Tampa,FL,US,3-10-2020
+509,Senior Backend Engineer - AI Platform,200013159_1,New York,NY,US,2-18-2020
+510,Senior Backend Engineer - AI Platform,200013159,San Mateo,CA,US,2-18-2020
+511,Java Software Engineer,200010268,Plano,TX,US,3-10-2020
+512,Java Software Engineer Lead,190088609,Newark,DE,US,3-10-2020
+513,Java Software Engineer,200019633,Lewisville,TX,US,3-10-2020
+514,Java Software Engineer,200019635,Lewisville,TX,US,3-10-2020
+515,"Software Engineer - Full Stack, Digital Wealth Management Platform",190098730,New York,NY,US,1-31-2020
+516,Java Software Engineer,200022355,Brooklyn,NY,US,3-10-2020
+517,Application Site Reliability Engineer,190111395,Lewisville,TX,US,1-8-2020
+518,UI/Full Stack Software Engineer,190110430,Jersey City,NJ,US,12-6-2019
+519,Application Software Engineer-Liquidity Risk,190113578,Lewisville,TX,US,1-8-2020
+520,AI Platform - Senior Cloud Engineer VP,200007105,Wilmington,DE,US,2-7-2020
+521,Scrum Master - Cybersecurity Engineer  |  Agile,200014840,Seattle,WA,US,3-10-2020
+522,Senior UI/UX Software Engineer,200002608,Wilmington,DE,US,3-10-2020
+523,Software Engineer,200022031,Wilmington,DE,US,3-10-2020
+524,Senior Cloud Software Engineer,200018517,Jersey City,NJ,US,3-10-2020
+525,Senior Spark Software Engineer,190103882,Newark,DE,US,3-10-2020
+526,Software Engineering,200022995,San Francisco,CA,US,3-11-2020
+527,Software Engineer,200012014,Houston,TX,US,3-11-2020
+528,Java Software Engineer for Chase Online,200002976,Columbus,OH,US,2-26-2020
+529,Data Engineer,200011771,Houston,TX,US,3-11-2020
+530,"Software Engineer - C#, .NET",200009650,Plano,TX,US,3-11-2020
+531,Software Engineer - Automation/Performance,190059396,Columbus,OH,US,2-25-2020
+532,Software Engineer - Java,200015736,Tampa,FL,US,3-11-2020
+533,Software Engineering,200022125,Columbus,OH,US,3-11-2020
+534,Software Engineer,200020122,Houston,TX,US,3-11-2020
+535,Telecom SIP Engineer Professional,200002247,Columbus,OH,US,1-9-2020
+536,Full Stack Java Software Engineer,200002078,New York,NY,US,1-9-2020
+537,"VP, Full Stack - Software Engineer",190102853,Wilmington,DE,US,12-9-2019
+538,Python Software Engineer,190097879,Jersey City,NJ,US,1-9-2020
+539,Senior Software Engineer - Java Spark,200003420,Wilmington,DE,US,3-11-2020
+540,Java Software Engineer,200012475,Plano,TX,US,3-11-2020
+541,Senior Software Engineer - Java React,200003372,Wilmington,DE,US,3-11-2020
+542,Software Engineer - Java JS React,200003389,Wilmington,DE,US,3-11-2020
+543,"Java Software Engineer, VP",200019099,Columbus,OH,US,3-11-2020
+544,Infrastructure Engineer - Managed File Transfer,200008771,Columbus,OH,US,3-11-2020
+545,Java Spring Boot - Software Engineer,200016553,Wilmington,DE,US,3-11-2020
+546,Public Cloud - Sr. Software Engineer - SRE,200008051,San Mateo,CA,US,2-10-2020
+547,VP (App Dev Manager) Software Engineering,200013969,Plano,TX,US,3-11-2020
+548,Progress Software Engineer,200012898,Wilmington,DE,US,3-11-2020
+549,AEM / Java Engineer,200019794,Columbus,OH,US,3-11-2020
+550,.NET/Angular Software Engineer,200019626,Columbus,OH,US,3-10-2020
+551,Java Electronic Communications Software Engineer,200000817,Westerville,OH,US,2-11-2020
+552,Mobile QA Automation Software Engineer,200014453,Columbus,OH,US,3-5-2020
+553,Java Software Engineer,200000070,Columbus,OH,US,1-2-2020
+554,Mobile Software Engineer - Android,200008286,Columbus,OH,US,3-11-2020
+555,Java/J2EE Software Engineer – Marketing Technology,200005687,Chicago,IL,US,2-11-2020
+556,Engineer,200015232,Columbus,OH,US,3-11-2020
+557,"VP, Software Engineer (J2EE Software Engineer)",200023088,Lewisville,TX,US,3-11-2020
