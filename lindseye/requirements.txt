@@ -1,0 +1,44 @@
+Requirements and Installation instructions:
+
+
+This code requires the installation of miniconda3, Cantera (https://cantera.org/install/index.html), and Jupyter Notebooks. This installation is for Python3.
+
+
+Instructions are for MacOS, but Windows instructions are available on the Cantera website). 
+
+1) download miniconda:  (full instructions: https://cantera.org/install/macos-install.html)
+	in terminal run:
+	
+	cd Downloads
+	curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o miniconda.sh;
+	bash miniconda.sh
+
+follow the terminal instructions to continue, accept any license agreements, and specify the location to access miniconda3. This is the location where you will need to save the Cantera environment to using conda. 
+	
+
+	
+2) create an environment for Cantera (full instructions: https://cantera.org/install/conda-install.html#sec-install-conda)
+	in terminal run:
+
+	conda create --name spam --channel cantera cantera ipython matplotlib
+
+Follow any onscreen prompts to continue
+
+3) activate environment for Cantera
+	in terminal run:
+
+	conda create --name spam --channel cantera cantera ipython matplotlib
+
+4) Add Jupyter Notebook to the same location as the Cantera environment that you just created (full instructions: https://jupyter.org/install)
+	in terminal run:	
+
+	conda install -c conda-forge notebook
+
+5) Ensure that the CombinedCycleJN.ipynb file is in the location of the Cantera environment.
+If the instructions are followed above, by default, a miniconda3 folder will be added to your home directory. In it: open 'envs' and then 'spam'. The file should be located in 'spam'
+
+To re-access this environment, move to the correct directory where the environment was set up and run (in terminal):
+
+	condo activate spam 
+
+
